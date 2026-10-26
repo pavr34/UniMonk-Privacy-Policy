@@ -1,27 +1,91 @@
-Privacy Policy — UniMonk
-Last updated: October 2026
-UniMonk is developed and maintained by a single independent developer, Officialpavr. This policy explains what data we collect, how we use it, and who we share it with.
+UNIMONK PRIVACY POLICY
 
-What We Collect
+Effective date: October 26, 2026
 
-We collect anonymous gameplay data such as session activity, game progress, and in-game behavior. If you create an account, we may also collect a username and any cosmetic preferences tied to that account. We do not collect your real name, email, or any personally identifiable information unless you choose to provide it.
-How We Use Your Data
-Data is used solely to provide and improve gameplay functionality, including multiplayer services, account management, and in-app purchases.
-Third Party Services
-UniMonk uses the following third party services which may process data on our behalf:
+This Privacy Policy explains what information the VR game UniMonk ("UniMonk", "the game", "we", "us") collects, how we use it, who we share it with, and how you can ask us to delete it. UniMonk is available on Meta Quest.
 
-Photon (Exit Games) — multiplayer networking
-Microsoft PlayFab — backend and account services
-Meta Platform Services — VR platform integration and payments
 
-Each of these services has their own privacy policy and data practices.
-In-App Purchases
-UniMonk offers optional in-app purchases including virtual currency and Cosmetic Bundles. All transactions are processed securely through Meta's native payment system. We do not store any payment information.
-Data Sharing
-We do not sell your data. We only share data with the third party services listed above as necessary to operate the game.
-Children's Privacy
-UniMonk is not directed at children under 13. We do not knowingly collect data from children.
-Your Rights
-You may request deletion of your account and associated data at any time by contacting us.
-Contact
-If you have any questions about this policy, please reach out at Pavrbusiness@gmail.com
+1. INFORMATION WE COLLECT AND WHY
+
+Meta User ID
+Source: Meta Horizon Platform.
+Use: To verify that you own the game (entitlement check), to process and restore in-app purchases, and to link your purchases and progress to your account.
+
+PlayFab data (player ID, display name, virtual currency balance, purchase history, and owned cosmetics)
+Source: Microsoft PlayFab.
+Use: To save your progress, deliver virtual currency and cosmetics you have purchased or earned, and restore them if you reinstall the game.
+
+Photon data (nickname, Photon user ID, and IP address)
+Source: Photon Engine (Photon Unity Networking).
+Use: To connect you to multiplayer rooms, show your nickname to other players, and keep online gameplay working. Your IP address is processed by Photon's servers while you are connected.
+
+Settings such as menu options are stored locally on your headset only. They are not sent to us or to any third party.
+
+We do not collect your real name, email address, phone number, physical location, photos, or payment card details. Payments for in-app purchases are handled entirely by Meta.
+
+
+2. HOW WE USE YOUR INFORMATION
+
+- To provide, operate, and maintain the game, including multiplayer.
+- To verify ownership and process in-app purchases.
+- To save and restore your progress, currency, and cosmetics.
+- To prevent cheating, abuse, and fraud, and to enforce our rules.
+- To respond to your questions and data requests.
+
+We do not sell your personal data. We do not use it for advertising or marketing, and we do not use it to build profiles of you.
+
+
+3. THIRD-PARTY SERVICES
+
+UniMonk uses the following services, which process data on our behalf. Each has its own privacy policy:
+
+- Meta (Meta Horizon Platform and payments): https://www.meta.com/legal/privacy-policy/
+- Microsoft PlayFab (account data, currency, purchases): https://privacy.microsoft.com/privacystatement
+- Photon Engine (multiplayer networking): https://www.photonengine.com/en-US/Legal/Privacy
+
+We do not share your data with anyone else, except where required by law.
+
+
+4. DATA RETENTION
+
+We keep your PlayFab data for as long as your account is active or as needed to provide the game. When you request deletion, we delete it as described below. Photon handles connection data (such as IP addresses) according to its own retention practices described in its privacy policy.
+
+
+5. YOUR RIGHTS AND REQUESTING DELETION OF YOUR DATA
+
+To request deletion of your data, email pavrBusiness@gmail.com with the subject line "UniMonk Data Deletion Request" and include your in-game name. We may ask you to confirm that the account is yours.
+
+We will delete your PlayFab player data (including your player ID, display name, virtual currency balance, and cosmetics) within 30 days and confirm by email once it is done. Deleting your data means you will lose your progress, currency, and cosmetics, and this cannot be undone.
+
+You can also email us at the same address to ask what data we hold about you, or to correct it. You can control your Meta account data through your Meta account settings.
+
+
+6. CHILDREN'S PRIVACY
+
+UniMonk is designed for players both under and over 13 years of age. Accounts for younger players are created and managed through Meta, under Meta's own rules for parent-managed accounts. We do not control how those accounts are set up.
+
+For all players, including children, we only collect the data listed in Section 1, and only what we need to run the game. We do not sell any player's data, we do not use it for advertising or marketing, and we do not use it to build profiles of players. We do not ask players for their real name, email address, phone number, or location.
+
+Parents and legal guardians can contact us at any time at pavrBusiness@gmail.com to:
+- ask what data we hold about their child,
+- request that we correct or delete their child's data (see Section 5), or
+- ask us to stop collecting further data from their child.
+
+We encourage players, especially children, not to use their real name as an in-game nickname, since nicknames are visible to other players in multiplayer.
+
+If you believe we hold data about a child that you did not authorize, contact us and we will review and delete it as appropriate.
+
+
+7. SECURITY
+
+We rely on the security measures of Meta, PlayFab, and Photon to protect your data. No method of transmission or storage is perfectly secure, so we cannot guarantee absolute security.
+
+
+8. CHANGES TO THIS POLICY
+
+We may update this policy from time to time. When we do, we will change the effective date at the top of this page. Continued use of the game after a change means you accept the updated policy.
+
+
+9. CONTACT
+
+Questions about this policy or your data? Email pavrBusiness@gmail.com.
